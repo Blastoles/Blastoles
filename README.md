@@ -106,7 +106,6 @@ Este repositório funciona como uma **vitrine técnica**, reunindo projetos, com
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blastoles&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Blastoles&theme=tokyonight&hide_border=true)
 
 </div>
