@@ -46,45 +46,35 @@ Projetos públicos com código-fonte aberto e **executáveis prontos para uso** 
         <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
       </p>
       <a href="https://github.com/Blastoles/Copiar"><img src="https://img.shields.io/badge/Ver-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      <a href="https://github.com/Blastoles/Copiar/releases/latest"><img src="https://img.shields.io/badge/Baixar-Release-orange?style=for-the-badge&logo=windows&logoColor=white"></a>
+      <a href="https://github.com/Blastoles/Copiar/releases/latest/download/copiar.exe"><img src="https://img.shields.io/badge/Baixar-.EXE%20(v1.0)-orange?style=for-the-badge&logo=windows&logoColor=white"></a>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🪟 Barra Lateral Windows</h3>
-      <p>Sidebar flutuante leve para Windows 10/11 em <b>Rust + Tauri v2</b> com visual <i>glassmorphism</i>, suporte a múltiplos monitores, atalhos de teclado globais, execução de apps/scripts e player de mídia interno.</p>
+      <p>Sidebar flutuante leve para Windows 10/11 em <b>Rust + Tauri v2</b> com visual <i>glassmorphism</i>, múltiplos monitores, atalhos globais e player de mídia interno.</p>
       <p>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
         <img src="https://img.shields.io/badge/Tauri_v2-24C8DB?style=flat-square&logo=tauri&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
       </p>
-      <a href="https://github.com/Blastoles/Barra_Lateral_Windows"><img src="https://img.shields.io/badge/Ver-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      <a href="https://github.com/Blastoles/Barra_Lateral_Windows/releases"><img src="https://img.shields.io/badge/Baixar-Instalador-orange?style=for-the-badge&logo=windows&logoColor=white"></a>
+      <a href="https://github.com/Blastoles/Barra_Lateral_Windows"><img src="https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Blastoles/Barra_Lateral_Windows/releases/download/nightly-dev/BarraLateral_0.2.0_x64-setup.exe"><img src="https://img.shields.io/badge/Baixar-.EXE-orange?style=for-the-badge&logo=windows&logoColor=white"></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Coletor de Código (Contexto para IA)</h3>
-      <p>Extrator de contexto estruturado em JSON com validação SHA256, árvore de diretórios e biblioteca de prompts especializados para eliminar alucinações de nomenclatura em LLMs (ChatGPT, Claude, Gemini).</p>
+    <td width="33%" valign="top">
+      <h3>📧 Deletar Email (CLI IMAP)</h3>
+      <p>Ferramenta interativa de terminal (<code>Rich</code>) via IMAP para exclusão em massa por pasta ou remetente, além de backup e restauração local em formato <code>.eml</code>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Prompt_Engineering-AI-8A2BE2?style=flat-square">
-        <img src="https://img.shields.io/github/stars/Blastoles/Coletor_De_Codigo?style=flat-square&color=yellow">
-      </p>
-      <a href="https://github.com/Blastoles/Coletor_De_Codigo"><img src="https://img.shields.io/badge/Ver-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📧 Deletar Email (CLI IMAP & Backup)</h3>
-      <p>Ferramenta interativa de terminal (<code>Rich</code>) para gerenciar caixas de e-mail via IMAP: exclusão em massa por pasta ou remetente específico, além de backup completo e restauração local em formato <code>.eml</code>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/IMAP-Email_Backup-green?style=flat-square">
+        <img src="https://img.shields.io/badge/IMAP-Backup_.EML-green?style=flat-square">
       </p>
       <a href="https://github.com/Blastoles/Deletar_Email"><img src="https://img.shields.io/badge/Ver-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Monitor de Amperagem (Arduino & SCT-013)</h3>
-      <p>Monitoramento de consumo elétrico em tempo real (Corrente A, Potência W, Consumo kWh e Custo estimado em R$) para equipamentos de alta potência usando sensor não invasivo SCT-013 (100A/1V) com filtro de ruído.</p>
+    <td width="33%" valign="top">
+      <h3>⚡ Monitor de Amperagem</h3>
+      <p>Monitoramento elétrico em tempo real (Corrente A, Potência W, kWh e R$) usando Arduino e sensor não invasivo SCT-013 (100A/1V) com filtro de ruído.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
